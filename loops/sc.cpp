@@ -7,8 +7,7 @@ int nofScores = 0;
 int y = 0;
 
 int score, total, sat, unsat, exc;
-// Evaluate scores
-//  Main method
+// Evaluate scores in main method
 int main()
 {
     cout << "How many scores do you want to evaluate: ";
